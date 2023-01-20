@@ -18,10 +18,7 @@ MERN
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='20px' height='20px'/> Node.js
 - <img src="https://expressjs.com/images/express-facebook-share.png" width='20px' height='20px'> Express
 - Next.js
-
 </tr></tr></table> 
-
-
 <!---
 Ayaan-Surkhi/Ayaan-Surkhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
