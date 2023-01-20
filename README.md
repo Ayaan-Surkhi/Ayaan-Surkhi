@@ -4,7 +4,23 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: my [twitter](https://twitter.com/AyaanSurkhi)
 
+<table><tr><td valign="top" width="75%">
+
 ![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaan-Surkhi&show_icons=true&theme=radical)
+
+</td><td valign="top" width="25%">
+
+## 🧑‍💻 Fav Tech Stack
+
+MERN
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='20px' height='20px'/> React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='20px' height='20px'/> Mongodb 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='20px' height='20px'/> Node.js
+- <img src="https://expressjs.com/images/express-facebook-share.png" width='20px' height='20px'> Express
+- Next.js
+
+</tr></tr></table> 
+
 
 <!---
 Ayaan-Surkhi/Ayaan-Surkhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
