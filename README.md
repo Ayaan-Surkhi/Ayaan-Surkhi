@@ -6,8 +6,6 @@
 
 <table><tr><td valign="top" width="75%">
 
-</td><td valign="top" width="25%">
-
 ## 🧑‍💻 Fav Tech Stack
 
 MERN
