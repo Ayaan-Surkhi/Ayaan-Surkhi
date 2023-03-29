@@ -6,8 +6,6 @@
 
 <table><tr><td valign="top" width="75%">
 
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaan-Surkhi&show_icons=true&theme=radical)
-
 </td><td valign="top" width="25%">
 
 ## 🧑‍💻 Fav Tech Stack
