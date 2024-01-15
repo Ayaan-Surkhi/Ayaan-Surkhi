@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web & Mobile Development
 - 🌱 I’m currently learning Machine Learning & AI
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: my [twitter](https://twitter.com/AyaanSurkhi)
 
 <table><tr><td valign="top" width="75%">
 
