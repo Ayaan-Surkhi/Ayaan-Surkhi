@@ -11,7 +11,7 @@ MERN
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='20px' height='20px'/> React
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='20px' height='20px'/> Mongodb 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='20px' height='20px'/> Node.js
-- <img src="https://expressjs.com/images/express-facebook-share.png" width='20px' height='20px'> Express
+- Express
 - Next.js
 </tr></tr></table> 
 <!---
