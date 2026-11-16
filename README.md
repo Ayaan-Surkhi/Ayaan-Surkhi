@@ -9,7 +9,7 @@
 
 MERN
 
-NextJS + Supabase
+NextJS
 
 Flutter + Firebase
 
